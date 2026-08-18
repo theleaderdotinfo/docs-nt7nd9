@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-7h0en3.bokupaybymobile.com/sitemap.xml
